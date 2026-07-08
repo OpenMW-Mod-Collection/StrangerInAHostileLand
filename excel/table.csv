@@ -1,0 +1,21 @@
+Player →,Argonian,Breton,Riverfolk,Dark Elf,High Elf,Chimeri-Quey,Keptu-Quey,Imperial,Khajiit,Nord,Reachmen,Orc,Malahk Orc,Redguard,Wood Elf,Imga,Sea Elf
+NPC ↓,,,,,,,,,,,,,,,,,
+Argonian,10,,,-15,-5,-5,,,5,,,,-10,,,,-5
+Breton,,5,-5,,,,,,,-5,-5,-15,-15,-10,,-5,
+Riverfolk,,-5,5,,,,,,,-5,-5,-15,-15,-10,,-5,
+Dark Elf,-15,-5,-5,,-5,-5,-5,-10,-15,-10,-5,-10,-15,-5,-5,-10,-10
+High Elf,-10,-5,-5,-5,10,-5,-5,-10,-15,-5,-5,-10,-15,-5,-10,-10,-15
+Chimeri-Quey,-5,,,-5,-5,5,,-5,-5,,,-5,-10,,-5,-5,-15
+Keptu-Quey,,,,,,,5,,,,,,-10,,,,
+Imperial,,,,-5,,,,5,,,,,-15,,,,
+Khajiit,5,,,-15,-10,-5,,,5,,,,-10,,-15,,-5
+Nord,,-5,,-5,,,,,,5,,,-10,-5,,,
+Reachmen,,-10,-5,,,,,-5,,,5,,-10,-10,,,
+Orc,,-15,-5,-5,-5,-5,-5,,,-5,-5,5,,-10,-5,-5,-5
+Malahk Orc,-15,-15,-15,-15,-15,-15,-15,-15,-15,-15,-15,-5,5,-15,-15,-15,-15
+Redguard,,-10,-10,,,,,-5,,-10,-10,-10,-10,5,,-5,
+Wood Elf,,,,,-5,-5,,,-15,,,,-10,,5,5,
+Imga,,,,,5,,,,,,,,-10,,5,10,-5
+Sea Elf,-10,-5,-5,-5,-15,-15,-5,-5,-10,-5,-5,-10,-15,-5,-5,-10,10
+*Khajiit subtypes share the attitude table with default Khajiit,,,,,,,,,,,,,,,,,
+**Duadri share the table with Redguard,,,,,,,,,,,,,,,,,

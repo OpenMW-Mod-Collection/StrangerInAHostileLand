@@ -1,4 +1,4 @@
-# Improved Racism (OpenMW)
+# Stranger in a Hostile Land (OpenMW)
 
 ## 1.0
 

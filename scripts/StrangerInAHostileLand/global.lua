@@ -2,7 +2,7 @@
 local types = require("openmw.types")
 local world = require("openmw.world")
 
-local dispositions = require("scripts.ImprovedRacism.dispositions")
+local dispositions = require("scripts.StrangerInAHostileLand.dispositions")
 
 local modifiedNPCs = {}
 
