@@ -1,1 +1,2 @@
 GLOBAL: scripts/StrangerInAHostileLand/global.lua
+LOAD: scripts/StrangerInAHostileLand/load.lua

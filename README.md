@@ -16,11 +16,7 @@ Note that Player-NPC bonuses and penalties are not symmetrical. For example, a H
 
 Vanilla has a GMST-based bonus for same race, but this mod sets it to 0 so it doesn't get in the way.
 
-<details>
-
-<summary>
-The "why?"
-</summary>
+## Reasoning
 
 - Dunmer-Dunmer is set to 0. Outlander tax.
 - On the other end of the spectrum, Argonians get an additional bonus for same race (+5), as they're heavily oppressed in Morrowind, which makes them more likely to keep to themselves and band together. Khajiit get no such bonus, as they're more varied and tend to be less organized and more individualistic.
@@ -36,7 +32,13 @@ The "why?"
 - Imperials are pretty chill, though there's a -5 penalty for Dunmer because of all the trouble they caused and the very slow assimilation process.
 - Imga are chill. They have a decent relationship with the Bosmer. However, that doesn't mean the other races - especially the non-Bosmer elves - like or accept them.
 
-</details>
+## Compatibility
+
+Compatible with anything - be it disposition rebalances, new races or whatever.
+
+Safe to install, update or remove mid-playthrough. Though removing it mid-playthrough won't roll back any previous changes.
+
+Supports certain Tamriel Data races out of the box.
 
 ## Recommended Mods
 
