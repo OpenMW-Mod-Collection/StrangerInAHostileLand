@@ -134,7 +134,7 @@ def main():
                     value = int(value)
                 f.write(f"        {lua_key(npc_id)}  = {value},\n")
             f.write("    },\n")
-        f.write("}\n")
+        f.write("}\n\n")
         f.write("return dispositions\n")
 
     print(f"Wrote {out_path}")
